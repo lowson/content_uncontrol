@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           content_uncontrol
 // @version        0.0.1
-// @include        http*://nypost.com/
+// @include        http*://nypost.com/*
 // @run-at         document-end
 // ==/UserScript==
 
